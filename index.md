@@ -3385,6 +3385,3 @@ ISBN 978-5-4485-3717-2
 «Я не знаю, как это объяснить. Я хочу видеть тебя. Всё сложно. Но желание говорить с тобой, видеть тебя, быть рядом с тобой неистребимо во мне. Я не хочу врать и говорить, что люблю тебя. Я не знаю, смогу ли полюбить ещё раз. Но абсолютно точно одно: на этой планете есть пять человек, которые для меня важны. И один из них ты».
 
 В пустой комнате, глядя в пустоту, я почувствовал, что моя планета снова завертелась.
-
-
-<script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym"); ym(85785455, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/85785455" style="position:absolute; left:-9999px;" alt="" /></div></noscript
