@@ -9,4 +9,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /cover.jpg
+      image: /img/og-image.png
