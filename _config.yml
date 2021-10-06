@@ -4,4 +4,9 @@ url: https://rbobza.github.io
 theme: jekyll-theme-tactile
 title: Это просто эхо 
 description: Роман Романа Бобзы
-image: /cover.jpg
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /cover.jpg
