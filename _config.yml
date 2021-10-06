@@ -5,6 +5,9 @@ theme: jekyll-theme-tactile
 title: Это просто эхо 
 description: Роман Романа Бобзы
 
+plugins:
+  - jekyll-seo-tag
+  
 seo_tag:
   image:
     path: "/cover.jpg"
